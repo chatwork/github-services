@@ -1,0 +1,25 @@
+Beyond chat. Beyond simple. Text, voice, video, task management, and file sharing all in one place.
+
+http://chatwork.com/
+
+If you want to see detailed repo activity in your room, follow this steps:
+
+  - Click the **Settings Cog** on the top right
+  - Click on **Integrations**
+  - Select **GitHub**
+  - Click on **configure manually** option
+  - Copy and paste the provided token here
+
+Install Notes
+-------------
+
+http://chatwork.com
+
+1. **Token** - Enter your API Token.
+2. **Rooms** - Enter a comma delimited set of Room ID.
+
+Options
+
+3. **Mute push** - Mute push notifications.
+4. **Mute pull request** - Mute pull request notifications.
+5. **Mute issues** - Mute issues notifications.
